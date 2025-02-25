@@ -107,14 +107,13 @@ netbase                 6.4                    deb
 openssl                 3.0.15-1~deb12u1       deb                      
 passwd                  1:4.13+dfsg1-1+b1      deb                      
 perl-base               5.36.0-7+deb12u1       deb                      
-pip                     24.0                   python                   
+pip                     24.3.1                 python                   
 pydantic                2.10.6                 python                   
 pydantic-core           2.27.2                 python                   
-python                  3.11.11                binary                   
+python                  3.12.9                 binary                   
 readline-common         8.2-1.3                deb                      
 requests                2.32.3                 python                   
 sed                     4.9-1                  deb                      
-setuptools              65.5.1                 python                   
 sniffio                 1.3.1                  python                   
 sysvinit-utils          3.06-4                 deb                      
 tar                     1.34+dfsg-1.2+deb12u1  deb                      
@@ -124,5 +123,4 @@ urllib3                 2.3.0                  python
 usr-is-merged           37~deb12u1             deb                      
 util-linux              2.38.1-5+deb12u3       deb                      
 util-linux-extra        2.38.1-5+deb12u3       deb                      
-wheel                   0.45.1                 python                   
 zlib1g                  1:1.2.13.dfsg-1        deb
