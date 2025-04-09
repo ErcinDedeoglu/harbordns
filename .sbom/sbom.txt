@@ -64,7 +64,7 @@ libkeyutils1            1.6.3-2                deb
 libkrb5-3               1.20.1-2+deb12u2       deb                      
 libkrb5support0         1.20.1-2+deb12u2       deb                      
 liblz4-1                1.9.4-1                deb                      
-liblzma5                5.4.1-0.2              deb                      
+liblzma5                5.4.1-1                deb                      
 libmd0                  1.0.4-2                deb                      
 libmount1               2.38.1-5+deb12u3       deb                      
 libncursesw6            6.4-4                  deb                      
@@ -108,8 +108,8 @@ openssl                 3.0.15-1~deb12u1       deb
 passwd                  1:4.13+dfsg1-1+b1      deb                      
 perl-base               5.36.0-7+deb12u1       deb                      
 pip                     24.3.1                 python                   
-pydantic                2.10.6                 python                   
-pydantic-core           2.27.2                 python                   
+pydantic                2.11.3                 python                   
+pydantic-core           2.33.1                 python                   
 python                  3.12.9                 binary                   
 readline-common         8.2-1.3                deb                      
 requests                2.32.3                 python                   
@@ -117,8 +117,9 @@ sed                     4.9-1                  deb
 sniffio                 1.3.1                  python                   
 sysvinit-utils          3.06-4                 deb                      
 tar                     1.34+dfsg-1.2+deb12u1  deb                      
-typing-extensions       4.12.2                 python                   
-tzdata                  2025a-0+deb12u1        deb                      
+typing-extensions       4.13.1                 python                   
+typing-inspection       0.4.0                  python                   
+tzdata                  2025b-0+deb12u1        deb                      
 urllib3                 2.3.0                  python                   
 usr-is-merged           37~deb12u1             deb                      
 util-linux              2.38.1-5+deb12u3       deb                      
